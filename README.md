@@ -14,7 +14,6 @@
 # Statistics #
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=karanraj10&show_icons=true&locale=en" alt="karanraj10" /></p>
 
-# Most used Language #
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanraj10&show_icons=true&locale=en&layout=compact" alt="karanraj10" /></p>
 
 </br></br></br></br>
