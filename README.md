@@ -19,4 +19,4 @@
 
 <br><br><br>
 # 📫 How to reach me : #
-### 💌Mail me [karanraj.work@gmail.com]()
+### Mail me: [karanraj.work@gmail.com]()
