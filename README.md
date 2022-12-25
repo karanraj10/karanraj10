@@ -14,4 +14,4 @@
 
 # How to reach me : #
 ### Mail me: [karanraj.work@gmail.com]()
-### My Portfolio: [karanraj10 Portfolio](https://karanraj10.github.io/portfolio-karanraj/)
+### My Portfolio: [karanraj10 Portfolio](https://karanraj10.github.io/portfolio-karanraj/index.html)
